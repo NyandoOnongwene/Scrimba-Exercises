@@ -1,7 +1,7 @@
-/*
-Challenge:
-Center the logo and the search field.
-*/
+  /*
+    Challenge: 
+    Design the search field according to the spec
+    */
 
 .main {
     margin-top: 100px;
@@ -21,5 +21,11 @@ Center the logo and the search field.
     /* margin-top: 20px;   Or this to set a space between them */
     margin-right: auto;
     margin-left: auto;
+    height: 24px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+  
 
 }
