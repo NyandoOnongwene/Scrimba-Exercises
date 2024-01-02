@@ -1,11 +1,6 @@
 /*
-Challenge: 
-Add some space between the logo 
-and the search field.
-
-What are the two different ways 
-we can do this with margins?
-
+Challenge:
+Center the logo and the search field.
 */
 
 .main {
@@ -16,10 +11,15 @@ we can do this with margins?
     display: block;
     width: 300px;
     margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .search-input {
     display: block;
     width: 400px;
-    /* margin-top: 20px;   Or this */
+    /* margin-top: 20px;   Or this to set a space between them */
+    margin-right: auto;
+    margin-left: auto;
+
 }
