@@ -5,6 +5,7 @@
 
 .main {
     margin-top: 100px;
+    text-align: center;
 }
 
 .logo-img {
@@ -29,9 +30,9 @@
 }
 
  .btn {
-     display: block;
-     margin-top: 20px;
-     margin-left: auto;
-     margin-right: auto;
-
+    margin-top: 20px;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 14px;
  }
